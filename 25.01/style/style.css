@@ -16,6 +16,9 @@
    height: 50px;
    border: 2px solid;
    position: absolute;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
 /* .box1 {
    background-color: #004980;

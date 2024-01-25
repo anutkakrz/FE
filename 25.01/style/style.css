@@ -17,7 +17,7 @@
    border: 2px solid;
    position: absolute;
 }
-.box1 {
+/* .box1 {
    background-color: #004980;
    top: 0;
    right: 0;
@@ -36,5 +36,24 @@
    background-color: #ca45d8;
    bottom: 0;
    right: 0;
+} */
+.box:nth-child(1) {
+   background-color: #004980;
+   top: 0;
+   right: 0;
 }
-
+.box:nth-child(2) {
+   background-color: green;
+   top: 0;
+   left: 0;
+}
+.box:nth-child(3) {
+   background-color: #bea414;
+   bottom: 0;
+   left: 0;
+}
+.box:nth-child(4) {
+   background-color: #ca45d8;
+   bottom: 0;
+   right: 0;
+}

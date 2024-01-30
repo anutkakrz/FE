@@ -1,0 +1,35 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+header {
+   height: 70px;
+   background-color: bisque;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 0 50px;
+   position: fixed;
+   width: 100%;
+}
+.link {
+   font-size: 24px;
+   text-decoration: none;
+   color: black;
+}
+section {
+   height: 100vh;
+}
+#red {
+   background-color: red;
+}
+#green {
+   background-color: green;
+}
+#yellow {
+   background-color: yellow;
+}
+#pink {
+   background-color: pink;
+}

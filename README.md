@@ -1,6 +1,13 @@
+https://anutkakrz.github.io/FE/00.01/index.html
+https://anutkakrz.github.io/FE/01.01/index.html
+https://anutkakrz.github.io/FE/19.01/index.html
+https://anutkakrz.github.io/FE/25.01/index.html
+https://anutkakrz.github.io/FE/26,01Andrey/index.html
+https://anutkakrz.github.io/FE/26.01/index.html
 https://anutkakrz.github.io/FE/prodject1/index.html 
 https://anutkakrz.github.io/FE/prodject2/index.html 
 https://anutkakrz.github.io/FE/prodject3/index.html 
 https://anutkakrz.github.io/FE/prodject4/index.html 
 https://anutkakrz.github.io/FE/prodject5/index.html 
 https://anutkakrz.github.io/FE/project6/index.html 
+https://anutkakrz.github.io/FE/JS1/index.html

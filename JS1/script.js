@@ -50,12 +50,53 @@ const num1 = +prompt("Введите еще одно число")
 const num3 = num + num1
 console.log(`Сумма чисел ${num3}`)*/
 
-/*const degree = 20
-if (degree>15) {
-   console.log("Надень футболку")
-// } */
+/*const degree = 32
+   if (degree>30) {
+  console.log("Останься дома")}
+   else if (degree>15) {
+   console.log("Надень футболку")}
+  else if(degree===15) {
+   console.log("сам реши что надеть")}
+ else {
+  console.log("Надень кофту")}*/
 
-const num = +prompt("введите число")
+/*const num = +prompt("введите число")
 if(num>100) {
    console.log("Больше")
+}
+else if(num===100){
+   console.log("Равно")
+}
+else {
+   console.log("Меньше")
+*/
+
+/*const korz = 150
+if (korz>1500) {
+   console.log ("Ваша скидка 15%")
+}
+else if (korz>1000) {
+   console.log ("Ваша скидка 10%")
+}
+else {
+   console.log ("Скидки нет")
+}*/
+
+/*const number =11
+if(number % 2 === 0) {
+   console.log("четное")
+}
+else {
+   console.log("нечетное")
+}*/
+
+const num = -1
+if(num>0) {
+   console.log("положительное")
+} 
+else if(num===0) {
+   console.log("ноль")
+}
+else {
+   console.log("отрицательное")
 }

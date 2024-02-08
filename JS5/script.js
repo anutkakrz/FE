@@ -17,8 +17,8 @@
 // const lorem5 = document.querySelector("footer p")
 // console.log(lorem10.innerText, Hellooo.innerText, mtd.innerText, lorem5.innerText)
 
-const titles = document.querySelectorAll("h1")
-console.log(titles);
+// const titles = document.querySelectorAll("h1")
+// console.log(titles);
 //titles.innerText = "hello my friend" // это не работает т.к. иннерТекст не срабатывает с массивом в таком виде, нужно обращаться к массиву:
 // titles[0].innerText = "hello my friend"
 // titles[1].innerText = "hello my friend"
@@ -43,9 +43,9 @@ console.log(titles);
 //    images[i].setAttribute("src",` ./img${i+1}.jpg`)
 // }
 
-const imag = [ "./elki.jpg", "./gori.jpg", "./les.jpg", "./ozero.jpg", "./reka.jpg" ]
-const images = document.querySelectorAll("img")
-for (let i=0; i<images.length; i++) {
-   images[i].setAttribute("src",imag[i])
-}
+// const imag = [ "./elki.jpg", "./gori.jpg", "./les.jpg", "./ozero.jpg", "./reka.jpg" ]
+// const images = document.querySelectorAll("img")
+// for (let i=0; i<images.length; i++) {
+//    images[i].setAttribute("src",imag[i])
+// }
 
